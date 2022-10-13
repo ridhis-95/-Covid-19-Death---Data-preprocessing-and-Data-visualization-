@@ -1,0 +1,434 @@
+[
+    {
+        "Year":2020,
+        "Age Group":"0-17 years",
+        "Sex":"All Sexes",
+        "Total Deaths":3033,
+        "Covid-19 Deaths":18.0,
+        "Pneumonia Deaths":68,
+        "Influenza Deaths":19.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"18-29 years",
+        "Sex":"All Sexes",
+        "Total Deaths":6723,
+        "Covid-19 Deaths":203.0,
+        "Pneumonia Deaths":222,
+        "Influenza Deaths":20.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"30-39 years",
+        "Sex":"All Sexes",
+        "Total Deaths":8854,
+        "Covid-19 Deaths":610.0,
+        "Pneumonia Deaths":535,
+        "Influenza Deaths":40.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"40-49 years",
+        "Sex":"All Sexes",
+        "Total Deaths":13104,
+        "Covid-19 Deaths":1507.0,
+        "Pneumonia Deaths":1400,
+        "Influenza Deaths":54.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"50-64 years",
+        "Sex":"All Sexes",
+        "Total Deaths":52811,
+        "Covid-19 Deaths":6371.0,
+        "Pneumonia Deaths":6419,
+        "Influenza Deaths":198.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"65-74 years",
+        "Sex":"All Sexes",
+        "Total Deaths":60630,
+        "Covid-19 Deaths":7283.0,
+        "Pneumonia Deaths":8084,
+        "Influenza Deaths":161.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"75-84 years",
+        "Sex":"All Sexes",
+        "Total Deaths":73558,
+        "Covid-19 Deaths":8225.0,
+        "Pneumonia Deaths":9517,
+        "Influenza Deaths":164.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"85 years and over",
+        "Sex":"All Sexes",
+        "Total Deaths":101860,
+        "Covid-19 Deaths":9330.0,
+        "Pneumonia Deaths":10757,
+        "Influenza Deaths":163.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"0-17 years",
+        "Sex":"Male",
+        "Total Deaths":1788,
+        "Covid-19 Deaths":12.0,
+        "Pneumonia Deaths":40,
+        "Influenza Deaths":12.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"18-29 years",
+        "Sex":"Male",
+        "Total Deaths":5069,
+        "Covid-19 Deaths":133.0,
+        "Pneumonia Deaths":143,
+        "Influenza Deaths":26.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"30-39 years",
+        "Sex":"Male",
+        "Total Deaths":6275,
+        "Covid-19 Deaths":421.0,
+        "Pneumonia Deaths":360,
+        "Influenza Deaths":19.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"40-49 years",
+        "Sex":"Male",
+        "Total Deaths":8645,
+        "Covid-19 Deaths":1062.0,
+        "Pneumonia Deaths":914,
+        "Influenza Deaths":28.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"50-64 years",
+        "Sex":"Male",
+        "Total Deaths":33818,
+        "Covid-19 Deaths":4496.0,
+        "Pneumonia Deaths":4240,
+        "Influenza Deaths":117.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"65-74 years",
+        "Sex":"Male",
+        "Total Deaths":36296,
+        "Covid-19 Deaths":4746.0,
+        "Pneumonia Deaths":5067,
+        "Influenza Deaths":88.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"75-84 years",
+        "Sex":"Male",
+        "Total Deaths":38918,
+        "Covid-19 Deaths":4675.0,
+        "Pneumonia Deaths":5457,
+        "Influenza Deaths":73.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"85 years and over",
+        "Sex":"Male",
+        "Total Deaths":41605,
+        "Covid-19 Deaths":4124.0,
+        "Pneumonia Deaths":4999,
+        "Influenza Deaths":75.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"0-17 years",
+        "Sex":"Female",
+        "Total Deaths":1245,
+        "Covid-19 Deaths":2537.0,
+        "Pneumonia Deaths":28,
+        "Influenza Deaths":26.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"18-29 years",
+        "Sex":"Female",
+        "Total Deaths":1654,
+        "Covid-19 Deaths":70.0,
+        "Pneumonia Deaths":79,
+        "Influenza Deaths":12.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"30-39 years",
+        "Sex":"Female",
+        "Total Deaths":2579,
+        "Covid-19 Deaths":189.0,
+        "Pneumonia Deaths":175,
+        "Influenza Deaths":21.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"40-49 years",
+        "Sex":"Female",
+        "Total Deaths":4459,
+        "Covid-19 Deaths":445.0,
+        "Pneumonia Deaths":486,
+        "Influenza Deaths":26.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"50-64 years",
+        "Sex":"Female",
+        "Total Deaths":18993,
+        "Covid-19 Deaths":1875.0,
+        "Pneumonia Deaths":2179,
+        "Influenza Deaths":81.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"65-74 years",
+        "Sex":"Female",
+        "Total Deaths":24334,
+        "Covid-19 Deaths":2537.0,
+        "Pneumonia Deaths":3017,
+        "Influenza Deaths":73.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"75-84 years",
+        "Sex":"Female",
+        "Total Deaths":34640,
+        "Covid-19 Deaths":3550.0,
+        "Pneumonia Deaths":4060,
+        "Influenza Deaths":91.0
+    },
+    {
+        "Year":2020,
+        "Age Group":"85 years and over",
+        "Sex":"Female",
+        "Total Deaths":60255,
+        "Covid-19 Deaths":5206.0,
+        "Pneumonia Deaths":5758,
+        "Influenza Deaths":88.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"0-17 years",
+        "Sex":"All Sexes",
+        "Total Deaths":3141,
+        "Covid-19 Deaths":42.0,
+        "Pneumonia Deaths":57,
+        "Influenza Deaths":26.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"18-29 years",
+        "Sex":"All Sexes",
+        "Total Deaths":7177,
+        "Covid-19 Deaths":415.0,
+        "Pneumonia Deaths":345,
+        "Influenza Deaths":0.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"30-39 years",
+        "Sex":"All Sexes",
+        "Total Deaths":10676,
+        "Covid-19 Deaths":1296.0,
+        "Pneumonia Deaths":1040,
+        "Influenza Deaths":26.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"40-49 years",
+        "Sex":"All Sexes",
+        "Total Deaths":15431,
+        "Covid-19 Deaths":2907.0,
+        "Pneumonia Deaths":2323,
+        "Influenza Deaths":26.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"50-64 years",
+        "Sex":"All Sexes",
+        "Total Deaths":58038,
+        "Covid-19 Deaths":11422.0,
+        "Pneumonia Deaths":9891,
+        "Influenza Deaths":10.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"65-74 years",
+        "Sex":"All Sexes",
+        "Total Deaths":64866,
+        "Covid-19 Deaths":11195.0,
+        "Pneumonia Deaths":10735,
+        "Influenza Deaths":14.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"75-84 years",
+        "Sex":"All Sexes",
+        "Total Deaths":75665,
+        "Covid-19 Deaths":10833.0,
+        "Pneumonia Deaths":11055,
+        "Influenza Deaths":16.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"85 years and over",
+        "Sex":"All Sexes",
+        "Total Deaths":98878,
+        "Covid-19 Deaths":10024.0,
+        "Pneumonia Deaths":10286,
+        "Influenza Deaths":26.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"0-17 years",
+        "Sex":"Male",
+        "Total Deaths":1787,
+        "Covid-19 Deaths":27.0,
+        "Pneumonia Deaths":30,
+        "Influenza Deaths":0.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"18-29 years",
+        "Sex":"Male",
+        "Total Deaths":5428,
+        "Covid-19 Deaths":282.0,
+        "Pneumonia Deaths":239,
+        "Influenza Deaths":0.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"30-39 years",
+        "Sex":"Male",
+        "Total Deaths":7726,
+        "Covid-19 Deaths":900.0,
+        "Pneumonia Deaths":715,
+        "Influenza Deaths":26.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"40-49 years",
+        "Sex":"Male",
+        "Total Deaths":10346,
+        "Covid-19 Deaths":1974.0,
+        "Pneumonia Deaths":1529,
+        "Influenza Deaths":26.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"50-64 years",
+        "Sex":"Male",
+        "Total Deaths":37501,
+        "Covid-19 Deaths":7598.0,
+        "Pneumonia Deaths":6440,
+        "Influenza Deaths":26.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"65-74 years",
+        "Sex":"Male",
+        "Total Deaths":38430,
+        "Covid-19 Deaths":6927.0,
+        "Pneumonia Deaths":6648,
+        "Influenza Deaths":11.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"75-84 years",
+        "Sex":"Male",
+        "Total Deaths":40042,
+        "Covid-19 Deaths":6191.0,
+        "Pneumonia Deaths":6320,
+        "Influenza Deaths":26.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"85 years and over",
+        "Sex":"Male",
+        "Total Deaths":40674,
+        "Covid-19 Deaths":4682.0,
+        "Pneumonia Deaths":5087,
+        "Influenza Deaths":26.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"0-17 years",
+        "Sex":"Female",
+        "Total Deaths":1354,
+        "Covid-19 Deaths":15.0,
+        "Pneumonia Deaths":27,
+        "Influenza Deaths":26.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"18-29 years",
+        "Sex":"Female",
+        "Total Deaths":1749,
+        "Covid-19 Deaths":133.0,
+        "Pneumonia Deaths":106,
+        "Influenza Deaths":0.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"30-39 years",
+        "Sex":"Female",
+        "Total Deaths":2950,
+        "Covid-19 Deaths":396.0,
+        "Pneumonia Deaths":325,
+        "Influenza Deaths":0.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"40-49 years",
+        "Sex":"Female",
+        "Total Deaths":5085,
+        "Covid-19 Deaths":933.0,
+        "Pneumonia Deaths":794,
+        "Influenza Deaths":26.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"50-64 years",
+        "Sex":"Female",
+        "Total Deaths":20537,
+        "Covid-19 Deaths":3824.0,
+        "Pneumonia Deaths":3451,
+        "Influenza Deaths":26.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"65-74 years",
+        "Sex":"Female",
+        "Total Deaths":26436,
+        "Covid-19 Deaths":4268.0,
+        "Pneumonia Deaths":4087,
+        "Influenza Deaths":26.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"75-84 years",
+        "Sex":"Female",
+        "Total Deaths":35623,
+        "Covid-19 Deaths":4642.0,
+        "Pneumonia Deaths":4735,
+        "Influenza Deaths":26.0
+    },
+    {
+        "Year":2021,
+        "Age Group":"85 years and over",
+        "Sex":"Female",
+        "Total Deaths":58204,
+        "Covid-19 Deaths":5342.0,
+        "Pneumonia Deaths":5199,
+        "Influenza Deaths":26.0
+    }
+]
